@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingwen Pei"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jingwen Pei"
 description              : &description "Ph.D. student at University of Connecticut"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Jingwen Pei"
   avatar           : "newprofile.png"
-  bio              : "Research Assistant in Bioinformatics Group, Department of Computer Science & Engineering, University of Connecticut"
+  bio              : "Research Assistant in Department of Computer Science & Engineering, University of Connecticut"
   location         : "Storrs, Connecticut, USA"
   employer         :
-  googlescholar    : ""
+  googlescholar    : 
   email            : "jingwen.pei@uconn.edu"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jingwen-pei/"
+  linkedin         : "jingwen-pei/"
   orcid            : 
   pinterest        :
   soundcloud       :
