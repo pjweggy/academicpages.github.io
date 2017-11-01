@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. student in Department of Computer Science & Engineering, University of Connecticut
-
-Email:jingwen.pei@uconn.edu
-
-Phone:860-617-4278
-
-LinkedIn:https://www.linkedin.com/in/jingwen-pei/
-
+Ph.D. student
+Department of Computer Science & Engineering, University of Connecticut
+Email:	jingwen.pei@uconn.edu
+Phone:	860-617-4278
+LinkedIn: [https://www.linkedin.com/in/jingwen-pei/](https://www.linkedin.com/in/jingwen-pei/)
 
 About me
 ======
