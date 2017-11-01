@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Contact"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,18 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. student
-Department of Computer Science & Engineering, University of Connecticut
-Email:	jingwen.pei@uconn.edu
-Phone:	860-617-4278
-LinkedIn: [https://www.linkedin.com/in/jingwen-pei/](https://www.linkedin.com/in/jingwen-pei/)
-
-About me
-======
-
-I am a PhD student at the Department of Computer Science & Engineering of the University of Connecticut. My research interest is Bioinformatics, especially focus on population genetics studies.
+I am a Ph.D. student at the Department of Computer Science & Engineering of the University of Connecticut. My research interest is Bioinformatics, especially focus on population genetics studies.
 
 Education
 ======
 
+Ph.D. program, University of Connecticut, Sep 2012 - present
+Bachelor of Science, Xi'an Jiaotong University, Sep 2008 - Jun 2012
 
