@@ -13,6 +13,8 @@ I am a Ph.D. student at the Department of Computer Science & Engineering of the 
 Education
 ======
 
-Ph.D. program, University of Connecticut, Sep 2012 - present
-Bachelor of Science, Xi'an Jiaotong University, Sep 2008 - Jun 2012
+* Ph.D, Department of Computer Science & Engineering, University of Connecticut, 2018(expected)
+* Visiting scholar, Department of Intergrative Biology and Statistics, University of California, Berkeley, 2017
+* Visiting undergraduate student, Department of Computer Science & Engineering, University of Connecticut, 2012
+* B.S, Xi'an Jiaotong University, 2012
 
