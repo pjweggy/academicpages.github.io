@@ -20,7 +20,7 @@ Contact
 Education
 ------
 
-**Ph.D.**, Department of Computer Science & Engineering, **University of Connecticut**, 2018(expected)
+**Ph.D.**, Department of Computer Science & Engineering, **University of Connecticut**, 2018 (expected)
 
 Visiting scholar, Department of Intergrative Biology and Statistics, **University of California, Berkeley**, 2017
 
