@@ -15,7 +15,7 @@ Contact
 
 |Email:   |jip12006@engr.uconn.edu        |
 |Phone:   |860-617-4278                   |
-|LinkedIn:|www.linkedin.com/in/jingwen-pei|
+|LinkedIn:|[www.linkedin.com/in/jingwen-pei](www.linkedin.com/in/jingwen-pei)|
 
 Education
 ------
