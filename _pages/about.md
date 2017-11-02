@@ -20,8 +20,8 @@ Contact
 Education
 ------
 
-* Ph.D, Department of Computer Science & Engineering, University of Connecticut, 2018(expected)
-* Visiting scholar, Department of Intergrative Biology and Statistics, University of California, Berkeley, 2017
-* Visiting undergraduate student, Department of Computer Science & Engineering, University of Connecticut, 2012
-* B.S, Xi'an Jiaotong University, 2012
+* **Ph.D**, Department of Computer Science & Engineering, **University of Connecticut**, 2018(expected)
+* Visiting scholar, Department of Intergrative Biology and Statistics, **University of California, Berkeley**, 2017
+* Visiting undergraduate student, Department of Computer Science & Engineering, **University of Connecticut**, 2012
+* **B.S**, School of Mathematics and Statistics, **Xi'an Jiaotong University**, 2012
 
