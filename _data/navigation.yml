@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
+
+  - title: "Publications and Presentation"
+    url: /pubandpres/
 
   - title: "Software"
     url: /software/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
