@@ -21,7 +21,7 @@ Paper published
 
 1. Xuanping Zhang, Hengwei Chen, Rong Zhang, **Jingwen Pei**, Yixuan Wang, Zhongmeng Zhao, Yi Huang, and Jiayin Wang (2017), Detecting Complex Indels with Wide Length-Spectrum from the Third Generation Sequencing Data, **_IEEE International Conference on Bioinformatics and Biomedicine_**, accepted
 1. **Jingwen Pei** and Jiayin Wang (2017), A Fast Optimization Algorithm for K-Coverage Problem, **_International Conference on Intelligent Computing_**, pp. 703-714, Springer, Cham
-1. **Jingwen** and Yufeng Wu (2017), STELL2: Fast and Accurate Coalescent-based Maximum Likelihood Inference of Species Trees from Gene Tree Topologies, **_Bioinformatics_**, (2017): btx079
+1. **Jingwen Pei** and Yufeng Wu (2017), STELL2: Fast and Accurate Coalescent-based Maximum Likelihood Inference of Species Trees from Gene Tree Topologies, **_Bioinformatics_**, (2017): btx079
 1. Yixin Zhu and **Jingwen Pei** (2011), Study of Identification of Oil Tank Dislocation and Recalibration Problem, **_Pure and Applied Mathematics_**, Vol. 27, No.4, 556-561
 
 Presentations
