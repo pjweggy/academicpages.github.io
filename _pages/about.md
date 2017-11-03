@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Contact"
-excerpt: "Contact"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 Contact
 ------
@@ -16,10 +17,12 @@ Contact
 |LinkedIn:|[www.linkedin.com/in/jingwen-pei](www.linkedin.com/in/jingwen-pei)|
 |github:  |[https://github.com/pjweggy](https://github.com/pjweggy)|
 
+
 About me
 ------
 
 I am a PhD student at the Department of Computer Science & Engineering of the University of Connecticut. My current research focuses on constructing statistical model and developing algorithm for Bioinformatics problems. As a member of Yufeng Wu's Bioinformatics group, I am particularly interested in population genetics studies, such as inferring ancestor admixture from focal individual, species delimitation, population structure inference.
+
 
 Education
 ------
