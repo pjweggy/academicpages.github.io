@@ -1,14 +1,12 @@
 ---
 permalink: /
+title: "Contact"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Contact
-------
 
 |Email:   |jingwen.pei@uconn.edu          |
 |Phone:   |860-617-4278                   |
