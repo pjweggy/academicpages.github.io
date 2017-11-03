@@ -21,6 +21,7 @@ About me
 
 I am a PhD student at the Department of Computer Science & Engineering of the University of Connecticut. My current research focuses on constructing statistical model and developing algorithm for Bioinformatics problems. As a member of Yufeng Wu's Bioinformatics group, I am particularly interested in population genetics studies, such as inferring ancestor admixture from focal individual, species delimitation, population structure inference.
 
+
 Education
 ------
 
