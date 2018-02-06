@@ -11,7 +11,7 @@ Publications
 Paper submitted
 ------
 
-1. **Jingwen Pei**, Rasmus Nielsen and Yufeng Wu (2017), Inferring the Ancestry of Parents and Grandparents from Genetic Data, submitted to **_Genome Research_**, under review
+1. **Jingwen Pei**, Rasmus Nielsen and Yufeng Wu (2017), Inferring the Ancestry of Parents and Grandparents from Genetic Data, submitted to **_Genome Research_**, under revision
 1. **Jingwen Pei**, Chong Chu, Xin Li, Bin Lu and Yufeng Wu (2017), CLADES: A Classification-based Machine Learning Method for Species Delimitation from Population Genetic Data, submitted to **_Molecular Ecology Resources_**, under review
 1. Chong Chu, **Jingwen Pei** and Yufeng Wu (2017), An Improved Approach for Reconstructing Consensus Repeats from Short Sequence Reads, submitted to **_BMC Genomics_**, under review
 1. Xin Li, Chong Chu, **Jingwen Pei**, Ion Mandoiu and Yufeng Wu (2017), CircMarker: A Fast and Accurate Algorithm for Circular RNA Detection, submitted to **_BMC Genomics_**, under review
