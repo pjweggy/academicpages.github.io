@@ -18,7 +18,7 @@ Paper submitted
 Paper published
 ------
 
-1. **Jingwen Pei**, Chong Chu, Xin Li, Bin Lu and Yufeng Wu (2017), CLADES: A Classification-based Machine Learning Method for Species Delimitation from Population Genetic Data, **_Molecular Ecology Resources_**, accepted
+1. **Jingwen Pei**, Chong Chu, Xin Li, Bin Lu and Yufeng Wu (2018), CLADES: A Classification-based Machine Learning Method for Species Delimitation from Population Genetic Data, **_Molecular Ecology Resources_**, accepted
 1. Xuanping Zhang, Hengwei Chen, Rong Zhang, **Jingwen Pei**, Yixuan Wang, Zhongmeng Zhao, Yi Huang, and Jiayin Wang (2017), Detecting Complex Indels with Wide Length-Spectrum from the Third Generation Sequencing Data, **_IEEE International Conference on Bioinformatics and Biomedicine(BIBM)_**, pp. 1980-1987, IEEE.
 1. **Jingwen Pei** and Jiayin Wang (2017), A Fast Optimization Algorithm for K-Coverage Problem, **_International Conference on Intelligent Computing_**, pp. 703-714, Springer, Cham
 1. **Jingwen Pei** and Yufeng Wu (2017), STELL2: Fast and Accurate Coalescent-based Maximum Likelihood Inference of Species Trees from Gene Tree Topologies, **_Bioinformatics_**, (2017): btx079
